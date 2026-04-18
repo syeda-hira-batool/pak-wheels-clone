@@ -1197,6 +1197,7 @@ public:
     }
 };
 
+
 int Marketplace::totalTransactions = 0;
 
 int main()
